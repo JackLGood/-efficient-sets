@@ -1,0 +1,46 @@
+commit 4caadc9a25c1d2c904abf49783e2e4e4ee7777ab
+Author: Jack Good <jlg444@cornell.edu>
+Date:   Tue Nov 12 21:57:55 2024 -0500
+
+    added back new report w/ new data
+    - added better documentation
+
+commit 153d1bcea78308eda85040c29720543728560567
+Author: Jack Good <jlg444@cornell.edu>
+Date:   Tue Nov 12 21:43:11 2024 -0500
+
+    revised mem code to pass new test cases
+    - edited mem and insert functions to pass full fleet of tests
+    - revised main to be accurate to the new algorithms
+    - got new r^2 of .996
+
+commit 862023d4562ec037860b5b8c66270da7d02337cd
+Author: Jack Good <jlg444@cornell.edu>
+Date:   Mon Nov 11 22:45:06 2024 -0500
+
+    Resolved bug in report.pdf
+    - report.pdf was not processed correctly was just a blank page but now is the correct document
+
+commit f70af4dadf0c4e748a5ce9f352211e475844f4b4
+Author: Jack Good <jlg444@cornell.edu>
+Date:   Mon Nov 11 22:33:42 2024 -0500
+
+    Implemended Performance Testing
+    - added Automate the Performance Measurement functions.
+    - developed main file to support n, n log n, time outputs.
+    - completed report on r^2 and answered questions.
+
+commit 5531e955d1e46e0bb9efe6cdfd4b41feba04a878
+Author: Jack Good <jlg444@cornell.edu>
+Date:   Sun Nov 10 22:03:54 2024 -0500
+
+    Implemented Task 2:
+    - completed compliation unit set.ml and set.mli
+    - added test cases until 80% coverage
+    - added rep_ok and to_string
+
+commit 3141656bd8270411235dc446f6f7fdd6f4f55353
+Author: Jack Good <jlg444@cornell.edu>
+Date:   Wed Nov 6 23:11:42 2024 -0500
+
+    Initial commit
